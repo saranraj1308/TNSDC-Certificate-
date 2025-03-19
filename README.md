@@ -1,1 +1,1 @@
-https://github.com/saranraj1308/TNSDC-Certificate-/settings/pages
+https://saranraj1308.github.io/TNSDC-Certificate-/
